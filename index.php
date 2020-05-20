@@ -201,7 +201,7 @@ if(isset($_GET['raw']) && $_GET['raw'] == "true"){
 				</div>
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="" target="_blank"><!-- <img src="resources/github.png" class="img-responsive" height="25px" width="22px" alt="Open source on GitHub!"></img> --><span class="icon-github"></span></a></li>
+						<li><a href="" target="_blank"><!-- <img src="resources/github.png" class="img-responsive" height="25px" width="22px" alt="Open source on GitHub!"></img> --><span class=""></span></a></li>
 						<?php
 						if($teamspeakJoinLink != ""){
 							echo '<li><a href="'.$teamspeakJoinLink.'"><span class=""></span></a></li>';
