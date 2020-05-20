@@ -187,7 +187,7 @@ if(isset($_GET['raw']) && $_GET['raw'] == "true"){
 
 <body>
 	<div class="container">
-		<nav class="navbar navbar-default">
+		<nav class="navbar navbar-expand-md navbar-light">
 			<div class="container-fluid">
 				<!-- Brand and toggle get grouped for better mobile display -->
 				<div class="navbar-header">
